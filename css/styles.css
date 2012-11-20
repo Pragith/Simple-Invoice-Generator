@@ -1,0 +1,10 @@
+body{
+	margin: 90px;
+	background:#F5F6F7 url(../img/gradient_texture.jpg) repeat-x 0 0
+}
+
+.wrapper{
+	background-color:white;
+	padding: 20px;
+	border-radius:15px;
+}

@@ -1,0 +1,11 @@
+
+{
+         "slug" : "AwsC",
+	"name" : "Awesome Client",
+	"address1" : "Address Line One",
+	"address2" : "Address Line Two",
+	"city" : "His City",
+	"state" : "His State",
+	"country" : "His Country",
+	"phone" : "9898989898"
+}

@@ -1,0 +1,11 @@
+
+{
+       "slug" : "Awsm",	
+        "name" : "My Awesome Company",
+	"address1" : "Line One",
+	"address2" : "Line Two",
+	"city" : "My Awesome City",
+	"state" : "My Awesome State",
+	"country" : "My Awesome Country",
+	"phone" : "4242424242"
+}

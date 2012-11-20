@@ -1,0 +1,11 @@
+RewriteEngine On
+
+RewriteRule   ^invoices/$ pages/invoice_list.php   [NC,L]
+RewriteRule   ^invoice/new$ pages/invoice_new.php   [NC,L]
+RewriteRule   ^invoice/([0-9\-]+)$ pages/invoice_view.php?id=$1  [NC,L]
+
+RewriteRule   ^clients/$ pages/clients_list.php [NC,L]
+RewriteRule   ^client/new$ pages/clients_new.php [NC,L]
+RewriteRule   ^client/edit/([a-z\-]+)$ pages/clients_edit.php?slug=$1 [NC,L]
+
+RewriteRule   ^company/$ pages/company_edit.php [NC,L]
